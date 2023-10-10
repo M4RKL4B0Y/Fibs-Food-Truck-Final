@@ -1,0 +1,149 @@
+.navbar {
+  background-color: tomato;
+  border: 5px solid red;
+  padding: 12px 6px;
+  display: flex;
+  justify-content: center;
+}
+
+.navbar .navLinks {
+  max-width: 500px;
+  width: 100%;
+  list-style: none;
+  padding: 0;
+  margin: 0 auto;
+  justify-content: space-between;
+  display: flex;
+ }
+.navbar .navLinks li a {
+  padding: 4px 2px;
+  font-size: 16px;
+  font-family: papyrus,bold;
+  color: orange;
+  justify-content: center;
+}
+.container-with-background{
+  background-image: url(https://drive.google.com/uc?export=view&id=1iXB_5JQBnq6WpcT9pa9IMncR_viWCPTL
+);
+  display: flex;
+   justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin: 0;
+  padding: 157px;
+ 
+
+}
+
+h1{
+  text-align: center;
+  font-family: papyrus,bold;
+  color: red;
+  display: flex;
+  justify-content: center;
+}
+h2{
+  text-align: center;
+  font-family: papyrus,bold;
+  color: orange;
+  margin: 30px;
+  background: tomato;
+  border: 5px solid red;
+  
+}
+h3{
+  text-align: center;
+  font-family: papyrus,bold;
+  color: orange;
+  margin: 20px;
+  background: tomato;
+  border: 5px solid red
+}
+h4{
+  text-align: center;
+  font-family: papyrus,bold;
+}
+h5{
+  text-align: center;
+  color: purple;
+  font-family: papyrus,bold;
+}
+p{
+  text-align: center;
+  margin-bottom: 50px;
+}
+address{
+  text-align: center;
+}
+li{
+  text-align: center;
+}
+#anchor{
+  text-align: center;
+}
+.container-with-background{
+ 
+}
+.math-images {
+  width: 100%;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.food {
+  width: 300px;
+  margin: 5px;
+}
+img {
+  width: 100%;
+  height:100%;
+}
+body {
+  background: orange;
+}
+.footer {
+  background-color: tomato;
+  border: 5px solid red;
+  padding: 30px 15px;
+}
+
+.footer .socialMedia {
+  display: flex;
+  justify-content: center;
+  justify-content: ;
+  align-items: center;
+  margin-bottom: 25px;
+}
+
+.footer .socialMedia a {
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  background-color: #fffffd;
+  text-decoration: none;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 5px;
+}
+
+.footer .socialMedia img {
+  width: 20px;
+  height: 20px;
+}
+
+.footer p {
+  text-align: center;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: papyrus,bold;
+  margin: 0;
+  color: orange;
+}
+.hidden-on-load {
+  opacity: 0;
+}
+  
